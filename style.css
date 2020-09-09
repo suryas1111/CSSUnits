@@ -1,0 +1,29 @@
+
+.remhite{
+    font-size: 2rem;
+}
+
+.emhite{
+    font-size: 2em;
+}
+
+.vhhite{
+    font-size: 2vh;
+}
+
+.vwhite{
+    font-size: 2vw;
+}
+
+.parenthite{
+    font-size: 20px;
+    float: right;
+}
+.clear{
+    clear: right;
+    float:right;
+}
+
+.rempadding{
+    padding: 2rem;
+}
